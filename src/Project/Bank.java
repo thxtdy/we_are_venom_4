@@ -32,4 +32,5 @@ public class Bank {
 		this.money += money;
 	}
 	
+	
 }
