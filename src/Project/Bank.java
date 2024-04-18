@@ -8,6 +8,13 @@ public class Bank {
 	int in;
 	int out;
 	
+	//은행 고유 코드
+	final int KB = 1;
+	final int SIN_HAN = 2;
+	final int WURI = 3;
+	final int HANA = 4;
+	final int BUSAN = 5;
+	
 	public int getMoney() {
 		return money;
 	}
